@@ -1,0 +1,33 @@
+Name (der Methode)
+
+Kategorie (Prozessschritt)
+
+Kosten
+
+Aufwand
+
+Nutzen
+
+Benötigte Nutzer
+
+Benötigtes Equipment
+
+Benötigtes Wissen/Ausbildung
+
+Video, Anwendung der Methode
+
+Zusammenfassung (PDF, PPT, DOC)
+
+Weiterführende Links
+
+Beispiel für Anwendung (Text, Bild)
+
+Zitat Praxisnutzen
+
+Vorteile/Nachteile
+
+Input/Output
+
+Wann/Wo (in welchem Prozessschritt) kann die Methode angewendet werden?
+
+'Management-Summary'

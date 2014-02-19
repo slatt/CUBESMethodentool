@@ -1,0 +1,29 @@
+Suchen Sie online nach Usability/UXD Methoden?
+	-warum?
+
+Sind Sie daran interessiert, neue Methoden/Tools kennenzulernen?
+
+Sind Sie daran interessiert, Ihr Wissen bzgl Methoden/Tools zu vertiefen?
+
+Was erwarten Sie von einer Online-Usability/UXD Methodensammlung?
+
+Welche Informationen zu Usability/UXD Methoden/Tools könnten Ihnen bei der täglichen Arbeit helfen?
+
+Was ist die größte Schwierigkeit beim praktischen Umgang mit Usability/UXD Methoden/Tools?
+
+Welche Informationen muss eine Methodensammlung Usability/UX für Sie auf den ersten Augenblick bereitstellen?
+
+Welche tiefergehenden Informationen muss eine Methodensammlung Usability/UX für Sie bereitstellen?
+
+
+Liste von Methoden: Name - Kurzbeschreibung
+Zu jeder Methode Checkbox: Kenne ich, Bin interessiert, mehr darüber zu erfahren + evtl. Eingabefeld "Warum?"
+
+Auswahl der Methoden: Breiter Fokus - bekannte & wahrscheinlich eher unbekannte Methoden, Fokus sowohl auf Usability als auch UX
+
+Fragestellungen:
+Sind die Nutzer eher an Usability oder eher an UXD Methoden interessiert?
+Was interessiert die Nutzer konkret an den Methoden?
+Welche Methoden sind bekannt/unbekannt?
+Ist es für die Nutzer interessanter neue Methoden kennenzulernen oder das Wissen über bekannte Methoden zu vertiefen?
+
